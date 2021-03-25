@@ -1,6 +1,7 @@
 # Mixpanel Profile Cleanup
 Cleanup the deduplicate profile of mixpanel
 
+[![dockeri.co](https://dockeri.co/image/mmhk/mixpanel)](https://hub.docker.com/r/mmhk/mixpanel)
 
 ### usage
 
